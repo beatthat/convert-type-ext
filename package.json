@@ -6,7 +6,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/beatthat/panel-interfaces.git"
+    "url": "git+https://github.com/beatthat/convert-type-ext.git"
   },
   "files": [
     "index.js",
@@ -20,9 +20,9 @@
   "author": "larrykirschner@gmail.com",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/beatthat/panel-interfaces/issues"
+    "url": "https://github.com/beatthat/convert-type-ext/issues"
   },
-  "homepage": "https://github.com/beatthat/panel-interfaces",
+  "homepage": "https://github.com/beatthat/convert-type-ext",
   "scripts": {
     "postinstall": "node scripts/postinstall.js",
     "install:test": "npm pack && cp ${npm_package_name}-${npm_package_version}.tgz ${npm_package_name}-latest.tgz && cd test && npm run clean && npm install",

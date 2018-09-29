@@ -1,7 +1,7 @@
 {
   "name": "convert-type-ext",
   "scope": "beatthat",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "Utility to safely try converting object to any type, provided as as an extension method: object.TryConvertTo<T>",
   "main": "index.js",
   "repository": {
